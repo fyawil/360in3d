@@ -13,7 +13,7 @@ function AboutUs() {
               <p>We offer the highest quality HD 360° virtual reality tours, videography and photography. We distinguish ourselves from other digital media agencies by helping our clients to optimise sales results through our bespoke sales enablement platform.</p>            
             </div>
           </div>
-          <div id='about-us-image'>
+          <div id='about-us-image-container'>
             <img src='logo.PNG'/>   
           </div>
           </div>

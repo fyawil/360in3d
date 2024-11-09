@@ -14,8 +14,8 @@ function App() {
       <PitchVideo />
       {/* <Services /> */}
       <Scheduler />
-       <AboutUs /> {/* Need to sort of the display of the paragraphs and any pics in here */}
-      <Footer /> {/* Need to add privacy policy page etc. */}
+       <AboutUs />
+      <Footer />
     </>
   )
 }
